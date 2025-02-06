@@ -5,3 +5,5 @@ Horse
 Panther
 Jaguar
 Koala
+Orangutan
+Panda
